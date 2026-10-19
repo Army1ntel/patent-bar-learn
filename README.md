@@ -1,16 +1,16 @@
 # Patent Bar Learn
 
-A free, offline study tool for the USPTO registration examination — the patent bar.
+A free, offline study tool for the USPTO registration examination - the patent bar.
 
 **Live app:** https://patentbar.ernestsumrall.com
 
 - **24 modules, 169 questions, 103 glossary terms**
 - Five answer choices per question, matching the real exam format
 - Every answer carries its citation to the MPEP, 35 U.S.C., or 37 CFR
-- Confusing terms are marked inline with a reference numeral — tap for a plain-English definition
+- Confusing terms are marked inline with a reference numeral - tap for a plain-English definition
 - Spaced repetition: three correct in a row masters a question; miss a mastered one and it returns
 - Weak-spot drills, a 20-question mixed drill, and a 50-question half session at exam pace
-- Works offline. Installs to a phone Home Screen. No account, no tracking, no server — progress stays in your browser
+- Works offline. Installs to a phone Home Screen. No account, no tracking, no server - progress stays in your browser
 
 ## Coverage
 
